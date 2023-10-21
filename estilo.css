@@ -1,0 +1,21 @@
+#imagemtaycan{
+    border-radius: 180px;
+}
+
+.divcentralizada{
+    text-align: center;
+}
+
+.divtexto {
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(169, 179, 179);
+}
+
+label{
+    padding-bottom: 5px;
+}
+
+.inputsmeiatela {
+    width: 50%;
+}
